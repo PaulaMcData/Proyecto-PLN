@@ -12,6 +12,7 @@ Desarrollar un sistema de clasificación de sentimientos utilizando el dataset `
 
 ## 📁 Contenido del repositorio:
 - `Proyecto_PLN.ipynb`: Notebook con el desarrollo completo del proyecto
+- `Proyecto_PLN.pdf`: Notebook completo en versión PDF
 - `requirements.txt`: Lista de dependencias utilizadas en el entorno
 - `envNLP`: Entorno virtual (añadido`.gitignore`)
 - `readme.txt`: Este archivo con instrucciones y detalles del trabajo
