@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+envNLP/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Otros
+*.log
+*.swp
